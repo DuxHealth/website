@@ -31,7 +31,7 @@ sections:
       background:
         color: "navy"
         image:
-          filename: bg-triangles.svg
+          filename: bg-medical-tech.svg
           filters:
             brightness: 0.4
   - block: stats
@@ -84,7 +84,7 @@ sections:
             - "Real-time data analysis"
             - "Collaborative research initiatives"
             - "Focus on patient safety and efficacy"
-          image: progress.png
+          image: coffee.png
           button:
             text: Explore Our Work
             url: /technology/
@@ -95,7 +95,7 @@ sections:
             - "Partner with us on research"
             - "Provide feedback and insights"
             - "Help shape the future of healthcare"
-          image: collaboration.png
+          image: coffee.png
           button:
             text: Collaborate With Us
             url: /contact/

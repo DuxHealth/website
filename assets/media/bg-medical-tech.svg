@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 600">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#005f99" />
+      <stop offset="100%" stop-color="#001f3f" />
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="600" fill="url(#gradient)" />
+  <path
+    d="M0,200 C300,400 600,0 900,300 C1200,600 1440,300 1440,300 L1440,600 L0,600 Z"
+    fill="rgba(255,255,255,0.2)"
+  />
+  <circle cx="200" cy="150" r="8" fill="#fff" />
+  <circle cx="400" cy="300" r="10" fill="#fff" />
+  <circle cx="700" cy="200" r="12" fill="#fff" />
+  <circle cx="1100" cy="400" r="8" fill="#fff" />
+  <line x1="200" y1="150" x2="400" y2="300" stroke="#fff" stroke-width="2" />
+  <line x1="400" y1="300" x2="700" y2="200" stroke="#fff" stroke-width="2" />
+  <line x1="700" y1="200" x2="1100" y2="400" stroke="#fff" stroke-width="2" />
+</svg>
