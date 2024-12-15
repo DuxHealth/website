@@ -84,7 +84,7 @@ sections:
             - "Real-time data analysis"
             - "Collaborative research initiatives"
             - "Focus on patient safety and efficacy"
-          image: coffee.png
+          image: coffee.jpg
           button:
             text: Explore Our Work
             url: /technology/
@@ -95,7 +95,7 @@ sections:
             - "Partner with us on research"
             - "Provide feedback and insights"
             - "Help shape the future of healthcare"
-          image: coffee.png
+          image: coffee.jpg
           button:
             text: Collaborate With Us
             url: /contact/
