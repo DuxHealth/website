@@ -13,11 +13,11 @@ sections:
       text: Dux creates real-time healthcare that guides health to take the right path at critical crossroads in life.
       primary_action:
         text: Learn About Our Vision
-        url: /website/#vision/
+        url: /website/#vision
         icon: rocket-launch
       secondary_action:
         text: Contact Us
-        url: /website/#contact/
+        url: /website/#contact
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -93,7 +93,7 @@ sections:
           image: coffee.jpg
           button:
             text: Collaborate With Us
-            url: /website/#contact/
+            url: /website/#contact
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-card
