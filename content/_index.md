@@ -9,7 +9,7 @@ design:
 sections:
   - block: hero
     content:
-      title: 
+      title: |
         Care when it's most important. 
         Made Possible.
       text: Dux creates real-time healthcare that guides health to take the right path at critical crossroads in life.
@@ -28,16 +28,16 @@ sections:
       background:
         color: "navy"
         image:
-          filename: bg-medical-tech.svg
+          filename: endless-constellation.svg
           filters:
             brightness: 0.4
   - block: stats
     content:
       items:
-        - statistic: "100% Focused"
+        - statistic: "Peace of Mind"
           description: |
-            On transforming  
-            epilepsy care
+            Giveing individuals control 
+            over their lives
         - statistic: "Deep Expertise"
           description: |
             AI-driven research  
