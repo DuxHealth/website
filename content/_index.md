@@ -9,8 +9,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Transforming Healthcare with AI
-      text: Building the future of personalized, predictive solutions for epilepsy management.
+      title: Care when it's most important. Made Possible.
+      text: Dux creates real-time healthcare that guides health to take the right path at critical crossroads in life.
       primary_action:
         text: Learn About Our Vision
         url: /about/
@@ -53,8 +53,8 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
+  - block: vision
+    id: vision
     content:
       title: Our Vision
       text: Harnessing cutting-edge AI and wearable technology to predict and prevent epileptic seizures.
