@@ -9,15 +9,13 @@ design:
 sections:
   - block: hero
     content:
-      - title: | 
-          Care when it's most important. 
-          Made Possible.
-      - text: Dux creates real-time healthcare that guides health to take the right path at critical crossroads in life.
-      - primary_action:
+      title: Care when it's most important. Made Possible.
+      text: Dux creates real-time healthcare that guides health to take the right path at critical crossroads in life.
+      primary_action:
         text: Learn About Our Vision
-        url: /about/
+        url: /website/#vision/
         icon: rocket-launch
-      - secondary_action:
+      secondary_action:
         text: Contact Us
         url: /website/#contact/
     design:
