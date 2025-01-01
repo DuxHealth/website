@@ -53,7 +53,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: vision
+  - block: features
     id: vision
     content:
       title: Our Vision
