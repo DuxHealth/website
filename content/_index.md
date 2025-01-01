@@ -17,12 +17,7 @@ sections:
         icon: rocket-launch
       secondary_action:
         text: Contact Us
-        url: /contact/
-      announcement:
-        text: "Pioneering the next generation of epilepsy care."
-        link:
-          text: "Our Approach"
-          url: /approach/
+        url: /#contact/
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -98,10 +93,11 @@ sections:
           image: coffee.jpg
           button:
             text: Collaborate With Us
-            url: /contact/
+            url: /#contact/
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-card
+    id: contact
     content:
       title: Join Us in Shaping the Future of Healthcare
       text: We’re on a mission to make epilepsy management smarter, safer, and more personalized.
