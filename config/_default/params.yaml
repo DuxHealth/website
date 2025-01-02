@@ -5,26 +5,26 @@
 
 # Appearance
 appearance:
-  mode: derk
-  color: indigo
+  mode: dark
+  color: zinc
 
 # SEO
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Dux creates real-time healthcare that guides health to take the right path at critical crossroads in life.'
-    twitter: 'GetResearchDev'
+    local_business_type: ""
+    org_name: ""
+    description: "Dux creates real-time healthcare that guides health to take the right path at critical crossroads in life."
+    twitter: "GetResearchDev"
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: ""
+    baidu_tongji: ""
+    plausible: ""
+    fathom: ""
+    pirsch: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 header:
@@ -38,14 +38,14 @@ header:
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     show_search: false
-    show_theme_chooser: true
+    show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: "© {year} Dux healthcare Inc"
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
